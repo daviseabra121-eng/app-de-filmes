@@ -1,0 +1,94 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "title": "A Origem",
+      "description": "Um ladrão que invade os sonhos de outras pessoas é contratado para realizar a tarefa impossível: plantar uma ideia na mente de alguém.",
+      "genre": ["Ficção Científica", "Ação"],
+      "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+      "rating": 8.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBKP0dwJEA1yYWaFLGFM7Q7l_qcu74d13Pt7a3pP99jnwW585WQyIZr_AXrcbGdCdPMcrVaorNaf9BrqMAgtpzOkr8U0UcAwP1dEmKQB47XQ&s=10"
+    },
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "description": "Um grupo de astronautas viaja por um buraco de minhoca em busca de um novo lar para a humanidade.",
+      "genre": ["Ficção Científica", "Drama"],
+      "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+      "rating": 8.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7g8vSRlZsHSDCBmHM_ydkh6mNzLBeBqoND4vlmMgmk08ZFBCJEzaghMohvUktRWNKMlZbGGUbu91Xz15UC4gwGan_Qhc-cg7-RbkuktlsQ&s=10"
+    },
+    {
+      "id": 3,
+      "title": "Max Steel",
+      "description": "Max McGrath descobre que possui energia turbo e precisa unir forças com o alienígena Steel para se transformar no herói Max Steel e enfrentar uma ameaça perigosa.",
+      "genre": ["Ação", "Ficção Científica"],
+      "cast": ["Ben Winchell", "Josh Brener", "Maria Bello", "Andy García"],
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgHDbCfYhRFagjAPYVFQKIIaw8gLH-k38Ne7_TtT-fRlMkyYNS8RooTIlp_KQD1l-DoYq60IJTOnjVeDES-p4ojbhxW6Da3D4JGnkUcEB&s=10"
+    },
+    {
+      "id": 4,
+      "title": "Vingadores: Ultimato",
+      "description": "Os heróis sobreviventes se unem para reverter os efeitos devastadores do estalo de Thanos.",
+      "genre": ["Ação", "Aventura", "Ficção Científica"],
+      "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
+      "rating": 8.4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREny5fNWzgigHjNidm1Cxt9te4bnEEeZuLhZ-n_iZ7AJF2TtlWXw4oG8GB2KV5JtL96Q5OP-DdNuUTJDLGX1etdpcTwKhrSXzvwJR5Fv2KVg&s=10"
+    },
+    {
+      "id": 5,
+      "title": "Coringa",
+      "description": "A origem sombria de um dos maiores vilões da cultura pop, explorando sua transformação em um símbolo do caos.",
+      "genre": ["Drama", "Suspense"],
+      "cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+      "rating": 8.4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGybhJnNwTyZ32-MVdGOCXIIt6wZF26v_VOAPVIdZsxgRqPqqJ6d-0cqci-z9WRTUYZb3d0aOwSE7d3v2mNLk6IPDg_OqQnjLZWYPkFgSKw&s=10"
+    },
+    {
+      "id": 6,
+      "title": "O Lobo de Wall Street",
+      "description": "A história real do corretor Jordan Belfort, que enriqueceu rapidamente através de esquemas financeiros.",
+      "genre": ["Comédia", "Biografia", "Drama"],
+      "cast": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie"],
+      "rating": 8.2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX_s1qq7pjHlz2HjJAlYfGsG733PwU7xWeiuZMlKXsn4OxBniFK6myPDTMR8EPjIWG5nx0lQncF98xDBUSUDBDkbGoOvkMJ98y0MKmcMXV&s=10"
+    },
+    {
+      "id": 7,
+      "title": "Avatar",
+      "description": "Um ex-fuzileiro paraplégico é enviado ao planeta Pandora, onde vive uma experiência que transforma sua vida.",
+      "genre": ["Ficção Científica", "Aventura"],
+      "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+      "rating": 7.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlumIfJ1U90WF-ijrb9yU8OH6QYabmQtO_1NwmL_u1WBbrZQ8x3VA38oGfbAg4_abNk_mk8GnOAgWxWFBu448JZ7DJ65alXYGgXgMeisGihw&s=10"
+    },
+    {
+      "id": 8,
+      "title": "Homem-Aranha: Sem Volta Para Casa",
+      "description": "Peter Parker enfrenta ameaças do multiverso após um feitiço dar errado.",
+      "genre": ["Ação", "Aventura"],
+      "cast": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"],
+      "rating": 8.2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvt_TZXrt4bk-1zESaepvzodZBjE7-_wgz1szZuxJqRkbmfkpMUhIAJerFjBVxP2dFZ6CyV8ovsH7Qwvmo63_gDs6A1dZuWg_aX_FPMEWH&s=10"
+    },
+    {
+      "id": 9,
+      "title": "Pantera Negra",
+      "description": "T'Challa retorna a Wakanda para assumir o trono, mas enfrenta um inimigo poderoso.",
+      "genre": ["Ação", "Aventura"],
+      "cast": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"],
+      "rating": 7.3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17ZhYGegmnTpK6Wd11EwU2r8AFca_O3UmvYgIzo-71_tkgp8owMguHvgt5DWuM60zS3Bk_soAnadrnIRetIJg9DS6uBbhlb14zU0rVmjl8A&s=10"
+    },
+    {
+      "id": 10,
+      "title": "Matrix",
+      "description": "Um programador descobre que a realidade é uma simulação e se junta à resistência para libertar a humanidade.",
+      "genre": ["Ficção Científica", "Ação"],
+      "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "rating": 8.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYmf8ecYtNbfD8BPhIvPidcEFaugKp6b86OM6_8-KoZ1snGzgIiu-rXbLP9aD09Rv1hUu_L5dcOPqQU1wUtrukHLnSyi06ld56n2rJLKmxcQ&s=10"
+    }
+  ]
+}
